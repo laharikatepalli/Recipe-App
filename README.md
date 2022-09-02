@@ -5,3 +5,7 @@ The prototype can be seen through the following link https://drive.google.com/fi
 
 
 CONTRIBUTERS
+1.Nicholas Cooke
+2. Brooke Czerwinski
+3. Lahari Katepalli
+4. Armant Touche
